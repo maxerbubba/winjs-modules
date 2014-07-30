@@ -5,6 +5,7 @@ This is a modular build seed for custom compiling your own version of WinJS.
 
 ## Build
 
+Note: On windows, install [git](http://www.git-scm.com/download/win) and run 'Git Bash' to open a bash-compatible console.
 
 1. npm install -g requirejs
 1. npm install winjs-modules
